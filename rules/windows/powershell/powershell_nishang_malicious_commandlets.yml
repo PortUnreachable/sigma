@@ -75,7 +75,6 @@ detection:
         - TexttoExe
         - Powerpreter
         - Nishang
-        - EncodedData
         - DataToEncode
         - LoggedKeys
         - OUT-DNSTXT
@@ -89,7 +88,6 @@ detection:
         - NotAllNameSpaces
         - exfill
         - FakeDC
-        - Exploit
     condition: keywords
 falsepositives:
     - Penetration testing
