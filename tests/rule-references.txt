@@ -3890,3 +3890,17 @@ https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedu
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
 https://github.com/FalconForceTeam/SOAPHound
 https://web.archive.org/web/20220614030603/http://www.powertheshell.com/ntfsstreams/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
+https://www.huntress.com/blog/attacking-mssql-servers
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh875578(v=ws.11)
+https://github.com/CICADA8-Research/RemoteKrbRelay
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/system-registry-no-backed-up-regback-folder
+https://gtfobins.github.io/gtfobins/capsh/#shell
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
+https://thecyberexpress.com/rogue-rdp-files-used-in-ukraine-cyberattacks/
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
+https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
